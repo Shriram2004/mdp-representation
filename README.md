@@ -66,7 +66,7 @@ climbing
 
 ## OUTPUT:
 
-![](https://github.com/Shriram2004/mdp-representation/blob/main/output1.jpeg)
+![](1.png)
 
 ## RESULT:
 Hence we have created an environment suitable for the above mentioned problem.
