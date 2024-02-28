@@ -34,7 +34,7 @@ else
 reward=0
 
 ### Graphical Representation
-![](tt.jpg)
+![](https://github.com/Shriram2004/mdp-representation/blob/main/output1.jpeg)
 
 ## PYTHON REPRESENTATION:
 ```
